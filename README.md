@@ -16,6 +16,17 @@ To make a problem easy to find, please include:
 - what you did, what you expected, and what happened instead
 - a photo or short video of the keys, if it is about what they show
 
+## Sending a log
+
+The plugin normally logs only warnings and errors. If a problem needs a closer look, a detailed log helps:
+
+1. Open the folder `%LOCALAPPDATA%\Logi\LogiPluginService\PluginData\AudioVisualizer` (paste that into the Explorer address bar) and create an empty file named `diagnostics.txt` in it.
+2. Use the keypad until the problem shows again, then wait about half a minute.
+3. Attach `%LOCALAPPDATA%\Logi\LogiPluginService\Logs\plugin_logs\AudioVisualizer.log` to your issue.
+4. Delete `diagnostics.txt` again.
+
+The log contains technical figures and the name of your output device. It never contains what you play.
+
 ## Common questions
 
 **The keys stay dark while music plays.**
