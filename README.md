@@ -4,6 +4,10 @@ Audio Visualizer is a plugin for Logi Options+ that turns the LCD keys of the **
 
 This repository is the plugin's support page. It holds no code.
 
+## User guide
+
+**[Read the user guide](GUIDE.md)**: which keys to place, what they do when pressed, every visualization, the dashboard keys and the Dialpad dials.
+
 ## Report a problem or ask a question
 
 Open an issue here: **[Issues](../../issues/new)**. That is also the way to contact the author.
