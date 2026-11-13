@@ -40,4 +40,4 @@ No. It reads the sound your PC plays and the current track's title and cover fro
 
 ## License
 
-The plugin is published under the MIT license.
+The plugin is free to use. Its terms are in the [End-User Licence Agreement](EULA.md).
